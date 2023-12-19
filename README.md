@@ -2,9 +2,9 @@
 
 This is a project aimed to develop skills in test driven development and programming terminal user-interfaces.
 
-- The game is played with two people in the terminal, with prompts to direct which player's turn it is.
+- The game is played with two people on one terminal, with prompts to direct which player's turn it is.
 - First each player places their ships on the game board.
-- Then the players take turns firing at the opposition board.
+- Then the players take turns firing at their oppositions board.
 - The winner is the first to sink all of their opponents ships.
 
 ## Getting Started
